@@ -1,2 +1,6 @@
 hello mjs
+<<<<<<< HEAD
 local changes
+=======
+edit remote
+>>>>>>> beef32c69a6b1cbcaa4b1f595d8b3d3c720e17ce
