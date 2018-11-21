@@ -1,2 +1,2 @@
-test remote / local change line / remote
+test remote / local change line / remote remote
 local add line
